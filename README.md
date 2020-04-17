@@ -1,7 +1,9 @@
 # Google-Based-Search-Engine
 This is basic PHP code which usages google search engine in the backend to search data. 
 Author:Sihab Sahariar
+
 Author Company:Team Error
+
 Author URL:github.com/sihabsahariar
 
 # VARIABLES DESCRIPTION
